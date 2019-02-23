@@ -10,4 +10,5 @@ Modificações da Versão 1.4:
 
 Conexão com BD em PDO;
 Geração de PDF com a biblioteca COMPOSER/DOMPDF;
+
 Sistema de Login gerenciável;
