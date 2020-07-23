@@ -1,29 +1,34 @@
-# sistema-de-tesouraria-v1.4
-Sistema de Tesouraria V 1.4 
-Sistema em HTML, PHP, CSS, BOOTSTRAP, MYSQL.
+[![HitCount](https://hits.dwyl.com/phprograming/sistema-de-tesouraria.svg)](https://hits.dwyl.com/phprograming/sistema-de-tesouraria)
+# Sistema de Tesouraria V 1.4 
 
-Sistema 1.3: http://www.paulocollares.com.br/2013/06/sistema-simples-de-livro-caixa-em-php/
+## Participants
 
-O sistema foi aprimorado da versão 1.3 para a versão 1.4.
+### Author
 
-Modificações da Versão 1.4:
+[Paulo Collares](http://www.paulocollares.com.br/2013/06/sistema-simples-de-livro-caixa-em-php/)
 
-Conexão com BD em PDO;
-Geração de PDF com a biblioteca COMPOSER/DOMPDF;
+### Enhanced by:
 
-Sistema de Login gerenciável;
+[Paulo Henrique Barbosa Santos](https://www.linkedin.com/in/paulo-henrique-barbosa/)
 
-Tela de Login:
-https://uploaddeimagens.com.br/imagens/tela_de_login-png-d5795bd7-4db2-4a86-b055-e15e53f24d00
+## Techs
 
-Painel de usuários cadastrados para o sistema:
-https://uploaddeimagens.com.br/imagens/sistema_de_usuario_gerenciavel-png
+- [x] Sistema em HTML
+- [x] PHP
+- [x] CSS
+- [x] BOOTSTRAP
+- [x] MYSQL
 
-Painel da Tesouraria :
-https://uploaddeimagens.com.br/imagens/painel_da_tesouraria-png
+## Modifications from Version 1.3 to 1.4
 
-Edição do usuário cadastrado:
-https://uploaddeimagens.com.br/imagens/edicao_de_usuario-png
+* [x] Conexão com BD em PDO
+* [x] Geração de PDF com a biblioteca COMPOSER/DOMPDF
+* [x] Sistema de Login gerenciável
 
-Tela de cadastro de usuário:
-https://uploaddeimagens.com.br/imagens/cadastro_de_novo_usuario-png
+## Added features
+
+* [x] Tela de Login
+* [x] Painel de usuários cadastrados para o sistema
+* [x] Painel da Tesouraria 
+* [x] Edição do usuário cadastrado
+* [x] Tela de cadastro de usuário
